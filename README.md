@@ -1,0 +1,1 @@
+A CRUD app using Vaadin framework (frontend Java) and Spring Data JPA.
